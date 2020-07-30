@@ -1,0 +1,1 @@
+web: gunicorn flight_app:app
